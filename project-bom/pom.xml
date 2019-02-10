@@ -7,14 +7,14 @@
     <groupId>org.anavas.test</groupId>
     <artifactId>project-bom</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>2.0-SNAPSHOT</version>
 
     <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>org.project1</groupId>
                 <artifactId>project1</artifactId>
-                <version>1.0-SNAPSHOT</version>
+                <version>2.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.project2</groupId>
