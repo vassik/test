@@ -17,5 +17,9 @@
             <groupId>org.project1</groupId>
             <artifactId>project1</artifactId>
         </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
     </dependencies>
 </project>

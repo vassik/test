@@ -24,12 +24,17 @@
 
   <dependencyManagement>
     <dependencies>
-      <dependency>
-        <groupId>org.anavas.test</groupId>
-        <artifactId>project-bom</artifactId>
-        <version>1.0-SNAPSHOT</version>
-        <scope>import</scope>
-      </dependency>
+        <dependency>
+            <groupId>org.project1</groupId>
+            <artifactId>project1</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
   </dependencyManagement>
 </project>
