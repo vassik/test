@@ -11,6 +11,6 @@ public class Project1Test {
     {
         Project1 project = new Project1();
 
-        assertTrue(project.returnString("Hello").equals("Project1Hello"));
+        assertTrue(project.returnString("Hello").equals("Project1Version2Hello"));
     }
 }
