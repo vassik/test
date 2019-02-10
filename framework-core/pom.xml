@@ -30,6 +30,11 @@
         <version>1.0-SNAPSHOT</version>
         <scope>import</scope>
       </dependency>
+        <dependency>
+            <groupId>org.project1</groupId>
+            <artifactId>project1</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
   </dependencyManagement>
 </project>

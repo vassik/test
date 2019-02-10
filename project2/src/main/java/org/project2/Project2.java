@@ -1,3 +1,5 @@
+package org.project2;
+
 public class Project2 {
 
     public String returnString(String str) {

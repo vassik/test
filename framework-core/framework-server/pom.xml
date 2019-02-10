@@ -12,5 +12,10 @@
     <groupId>org.anavas.test</groupId>
     <artifactId>framework-server</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>org.project1</groupId>
+            <artifactId>project1</artifactId>
+        </dependency>
+    </dependencies>
 </project>

@@ -1,4 +1,7 @@
+package org.project2;
+
 import org.junit.Test;
+import org.project2.Project2;
 
 import static org.junit.Assert.assertTrue;
 
